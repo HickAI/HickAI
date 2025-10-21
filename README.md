@@ -59,7 +59,11 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HickAI&theme=radical&hide_border=true&area=true)
+## 📅 GitHub Contribution Calendar
+
+![GitHub Activity Graph](https://github.com/HickAI&theme=radical&hide_border=true&area=true)
+
+
 
 ---
 
