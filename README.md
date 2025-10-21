@@ -19,9 +19,7 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ---
 
-## 🛠 My Tech Stack
-
-### **Tech Radar (Animated)**
+## 🛠 Tech Radar (Animated)
 
 ![Tech Radar](https://skillicons.dev/icons?i=python,java,csharp,js,ts,nodejs,react,nextjs,django,spring,aws,azure,gcp,docker,kubernetes,terraform,postgres,mysql,mongodb,kafka,rabbitmq,jest,pytest,tailwind,materialui)
 
@@ -31,7 +29,7 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ## 📈 GitHub Stats
 
-![Andrzej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAI&layout=compact&theme=radical)
 
 ---
@@ -44,17 +42,26 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ## 💻 Projects & Open Source
 
-### [Hospital Analytics Dashboard](https://github.com/HickAI/hospital-analytics)  
-React + Node.js + Django app for real-time clinical data visualization.
+<div align="center">
+  <a href="https://github.com/HickAI/hospital-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HickAI&repo=hospital-analytics&theme=radical" alt="Hospital Analytics Dashboard" />
+  </a>
+  <a href="https://github.com/HickAI/data-pipelines">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HickAI&repo=data-pipelines&theme=radical" alt="Data Integration Pipelines" />
+  </a>
+  <a href="https://github.com/HickAI/microservices-boilerplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HickAI&repo=microservices-boilerplate&theme=radical" alt="Microservices Boilerplate" />
+  </a>
+  <a href="https://github.com/HickAI/react-components">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HickAI&repo=react-components&theme=radical" alt="React Component Library" />
+  </a>
+</div>
 
-### [Data Integration Pipelines](https://github.com/HickAI/data-pipelines)  
-Python & Node.js ETL pipelines for BI reporting and real-time data ingestion.
+---
 
-### [Microservices Boilerplate](https://github.com/HickAI/microservices-boilerplate)  
-Reusable template using Docker, Kubernetes, and Node.js/FastAPI.
+## 📅 GitHub Contribution Calendar
 
-### [React Component Library](https://github.com/HickAI/react-components)  
-Reusable UI components with Storybook, TailwindCSS, and Material UI.
+![GitHub Contribution Calendar](https://github.com/HickAI/github-contribution-grid-snake.svg)
 
 ---
 
