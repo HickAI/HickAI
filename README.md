@@ -19,19 +19,6 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ---
 
-## 💼 Experience Highlights
-
-- **Senior Software Engineer – UZ Leuven, Belgium (2021 – Present)**  
-  Led development of hospital-wide analytics platforms, optimized APIs handling 50k+ transactions/day, and deployed cloud-native solutions on AWS.  
-
-- **Software Engineer – Starschema, Hungary (2018 – 2020)**  
-  Built data pipelines and visualization dashboards, implemented CI/CD pipelines, and improved system reliability by 25%.  
-
-- **Junior Software Engineer – Lingaro, Poland (2015 – 2018)**  
-  Developed enterprise BI solutions, backend modules, and responsive front-end applications.
-
----
-
 ## 🛠 My Tech Stack
 
 ### **Languages & Frameworks**
@@ -86,6 +73,12 @@ A reusable microservices template using Docker, Kubernetes, and Node.js/FastAPI 
 
 ### [React Component Library](https://github.com/HickAI/react-components)
 Reusable UI components with Storybook, TailwindCSS, and Material UI for enterprise dashboards.
+
+---
+
+## ✨ Visitors Counter
+
+![Visitor Count](https://profile-counter.glitch.me/HickAI/count.svg)
 
 ---
 
