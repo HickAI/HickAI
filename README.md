@@ -43,8 +43,8 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 ## 💻 Projects & Open Source
 
 <div align="center">
-  <a href="https://github.com/HickAI/hospital-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HickAI&repo=hospital-analytics&theme=radical" alt="Hospital Analytics Dashboard" />
+  <a href="https://github.com/HickAI/react-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HickAI&repo=react-python&theme=radical" alt="react-python-project" />
   </a>
   <a href="https://github.com/HickAI/data-pipelines">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HickAI&repo=data-pipelines&theme=radical" alt="Data Integration Pipelines" />
