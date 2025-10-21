@@ -56,14 +56,6 @@ Reusable UI components with Storybook, TailwindCSS, and Material UI.
 
 ---
 
-## 📅 GitHub Contribution Calendar
-
-![GitHub Activity Graph](https://github.com/HickAI&theme=radical&hide_border=true&area=true)
-
-
-
----
-
 ## ✨ Fun Facts & Hobbies
 
 - 🚴‍♂️ Cycling enthusiast – love exploring Poland on weekends  
@@ -76,7 +68,7 @@ Reusable UI components with Storybook, TailwindCSS, and Material UI.
 
 ## ✨ Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/HickAI/count.svg)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HickAI)
 
 ---
 
