@@ -15,7 +15,7 @@ I'm a **Senior Full Stack Engineer** with **10+ years of experience** designing,
 
 I specialize in **React, Next.js, Node.js, Django, Java Spring Boot, .NET Core**, and cloud technologies (**AWS, Azure, GCP**).  
 
-I enjoy **leading teams**, mentoring developers, and building **scalable, high-quality software** in Agile environments.  
+I enjoy **leading teams**, mentoring developers, and building **scalable, high-quality software** in Agile environments.
 
 ---
 
@@ -28,7 +28,7 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
   Built data pipelines and visualization dashboards, implemented CI/CD pipelines, and improved system reliability by 25%.  
 
 - **Junior Software Engineer – Lingaro, Poland (2015 – 2018)**  
-  Developed enterprise BI solutions, backend modules, and responsive front-end applications.  
+  Developed enterprise BI solutions, backend modules, and responsive front-end applications.
 
 ---
 
@@ -68,6 +68,24 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ![Andrzej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAI&layout=compact&theme=radical)
+
+---
+
+## 💻 Projects & Open Source
+
+Here are some of my key projects:
+
+### [Hospital Analytics Dashboard](https://github.com/HickAI/hospital-analytics)
+React + Node.js + Django app for real-time clinical data visualization and analytics.
+
+### [Data Integration Pipelines](https://github.com/HickAI/data-pipelines)
+Python & Node.js pipelines for ETL, Kafka/SQS ingestion, and BI reporting dashboards.
+
+### [Microservices Boilerplate](https://github.com/HickAI/microservices-boilerplate)
+A reusable microservices template using Docker, Kubernetes, and Node.js/FastAPI for scalable apps.
+
+### [React Component Library](https://github.com/HickAI/react-components)
+Reusable UI components with Storybook, TailwindCSS, and Material UI for enterprise dashboards.
 
 ---
 
