@@ -58,10 +58,16 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 </div>
 
 ---
-
+<!-
 ## 📅 GitHub Contribution Calendar
 
 ![GitHub Contribution Calendar](https://github.com/HickAI/github-contribution-grid-snake.svg)
+-!>
+
+## 📅 GitHub Contribution Calendar
+
+![Andrzej's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HickAI&theme=radical&hide_border=true)
+
 
 ---
 
