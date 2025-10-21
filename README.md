@@ -65,6 +65,16 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ---
 
+## ✨ Fun Facts & Hobbies
+
+- 🚴‍♂️ Cycling enthusiast – love exploring Poland on weekends  
+- 🎵 Music lover – always have a playlist for coding sessions  
+- 📚 Avid reader of tech blogs, AI research, and science fiction  
+- 🧩 Puzzle solver – enjoy coding challenges and algorithm puzzles  
+- ☕ Coffee aficionado – nothing fuels a 10-hour coding sprint like a strong espresso  
+
+---
+
 ## ✨ Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/HickAI/count.svg)
