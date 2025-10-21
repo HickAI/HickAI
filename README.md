@@ -68,7 +68,7 @@ Reusable UI components with Storybook, TailwindCSS, and Material UI.
 
 ## ✨ Visitor Counter
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HickAI)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HickAI&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)
 
 ---
 
