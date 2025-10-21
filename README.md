@@ -58,25 +58,29 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ---
 
-## 💻 Projects & Open Source
+## 🔥 GitHub Streak
 
-Here are some of my key projects:
-
-### [Hospital Analytics Dashboard](https://github.com/HickAI/hospital-analytics)
-React + Node.js + Django app for real-time clinical data visualization and analytics.
-
-### [Data Integration Pipelines](https://github.com/HickAI/data-pipelines)
-Python & Node.js pipelines for ETL, Kafka/SQS ingestion, and BI reporting dashboards.
-
-### [Microservices Boilerplate](https://github.com/HickAI/microservices-boilerplate)
-A reusable microservices template using Docker, Kubernetes, and Node.js/FastAPI for scalable apps.
-
-### [React Component Library](https://github.com/HickAI/react-components)
-Reusable UI components with Storybook, TailwindCSS, and Material UI for enterprise dashboards.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HickAI&theme=radical&hide_border=true)
 
 ---
 
-## ✨ Visitors Counter
+## 💻 Projects & Open Source
+
+### [Hospital Analytics Dashboard](https://github.com/HickAI/hospital-analytics)  
+React + Node.js + Django app for real-time clinical data visualization.
+
+### [Data Integration Pipelines](https://github.com/HickAI/data-pipelines)  
+Python & Node.js ETL pipelines for BI reporting and real-time data ingestion.
+
+### [Microservices Boilerplate](https://github.com/HickAI/microservices-boilerplate)  
+Reusable template using Docker, Kubernetes, and Node.js/FastAPI.
+
+### [React Component Library](https://github.com/HickAI/react-components)  
+Reusable UI components with Storybook, TailwindCSS, and Material UI.
+
+---
+
+## ✨ Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/HickAI/count.svg)
 
@@ -87,6 +91,4 @@ Reusable UI components with Storybook, TailwindCSS, and Material UI for enterpri
 - Email: miraclebringer57@gmail.com  
 - Phone: +48 601 325 674  
 - LinkedIn: [Andrzej Kostek](https://www.linkedin.com/in/andrzej-kostek-9a19a0388/)  
-
----
 
