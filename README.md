@@ -34,6 +34,15 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAI&layout=compact&theme=radical)
 
+![Andrzej’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues,contribs&show=reviews&custom_title=GitHub%20Stats%20%E2%AD%90%EF%B8%8F&rank_icon=github)
+![Total Stars Earned](https://img.shields.io/github/stars/HickAI?affiliations=OWNER&label=Total%20Stars%20Earned&logo=github&style=flat-square&color=FFD700)
+## 📊 GitHub Performance
+
+![Andrzej’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues,contribs&custom_title=GitHub%20Stats%20%E2%AD%90%EF%B8%8F&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAI&layout=compact&theme=radical&hide_border=true)
+![Total Stars Earned](https://img.shields.io/github/stars/HickAI?affiliations=OWNER&label=Total%20Stars%20Earned&logo=github&style=flat-square&color=FFD700)
+
+
 ---
 
 ## 🔥 GitHub Streak
