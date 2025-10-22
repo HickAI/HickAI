@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Andrzej Kostek
 
-**Senior Software Engineer | Full Stack Developer | Cloud & Data Enthusiast**  
+**Senior Software Engineer | Full Stack Developer | Cloud & Data Enthusiast | AI Expert**  
 
 📍 Warsaw, Poland  
 📧 miraclebringer57@gmail.com  
 📞 +48 601 325 674  
-🌐(https://www.linkedin.com/in/andrzej-kostek-9a19a0388/)
+🌐 [LinkedIN](https://www.linkedin.com/in/andrzej-kostek-9a19a0388/)
 
 ---
 
@@ -19,9 +19,26 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ---
 
-## 🛠 Tech Radar (Animated)
+## 🛠️ Tech Radar
 
-![Tech Radar](https://skillicons.dev/icons?i=python,java,csharp,js,ts,nodejs,react,nextjs,django,spring,aws,azure,gcp,docker,kubernetes,terraform,postgres,mysql,mongodb,kafka,rabbitmq,jest,pytest,tailwind,materialui)
+### **Frontend**
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,materialui,vuejs,angular)
+
+### **Backend**
+![Backend](https://skillicons.dev/icons?i=python,django,fastapi,java,spring,csharp,nodejs,express,nestjs,flask)
+
+### **Cloud & DevOps**
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,jenkins)
+
+### **Databases & Messaging**
+![Databases & Messaging](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,clickhouse)
+
+### **Testing & QA**
+![Testing](https://skillicons.dev/icons?i=jest,pytest,mocha,cypress,playwright,postman)
+
+### **Payments & CRM**
+![Payments & CRM](https://skillicons.dev/icons?i=stripe,paypal,salesforce,hubspot)
+
 
 > Powered by [skillicons.dev](https://skillicons.dev)
 
