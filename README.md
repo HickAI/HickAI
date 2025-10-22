@@ -5,7 +5,7 @@
 📍 Warsaw, Poland  
 📧 miraclebringer57@gmail.com  
 📞 +48 601 325 674  
-[LinkedIn](https://www.linkedin.com/in/andrzej-kostek-9a19a0388/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrzej-kostek-9a19a0388/)[LinkedIn](https://www.linkedin.com/in/andrzej-kostek-9a19a0388/)
 
 ---
 
