@@ -25,7 +25,7 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,materialui,vuejs,angular)
 
 ### **Backend**
-![Backend](https://skillicons.dev/icons?i=python,django,fastapi,java,spring,csharp,nodejs,express,nestjs,flask)
+![Backend](https://skillicons.dev/icons?i=python,django,fastapi,java,spring,nodejs,express,nestjs,flask)
 
 ### **Cloud & DevOps**
 ![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,jenkins)
@@ -34,10 +34,10 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 ![Databases & Messaging](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,clickhouse)
 
 ### **Testing & QA**
-![Testing](https://skillicons.dev/icons?i=jest,pytest,mocha,cypress,playwright,postman)
+![Testing](https://skillicons.dev/icons?i=jest,cypress,postman)
 
-### **Payments & CRM**
-![Payments & CRM](https://skillicons.dev/icons?i=stripe,paypal,salesforce,hubspot)
+### **AI**
+![AI](https://skillicons.dev/icons?i=ai,tensorflow,pytorch,sklearn)
 
 ---
 
