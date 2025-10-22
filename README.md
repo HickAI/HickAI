@@ -21,7 +21,7 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ## 🛠️ Tech Radar
 
-### **<span style="color:#61DAFB">Frontend</span>**
+### <span style="color:#61DAFB">**Frontend**</span>
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,materialui,vuejs,angular)
 
 ### **Backend**
