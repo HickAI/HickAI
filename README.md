@@ -39,6 +39,9 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 ### **Payments & CRM**
 ![Payments & CRM](https://skillicons.dev/icons?i=stripe,paypal,salesforce,hubspot)
 
+![Frontend](https://img.shields.io/badge/Frontend-Frontend-61DAFB?style=for-the-badge)
+
+
 
 > Powered by [skillicons.dev](https://skillicons.dev)
 
