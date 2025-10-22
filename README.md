@@ -29,12 +29,9 @@ I enjoy **leading teams**, mentoring developers, and building **scalable, high-q
 
 ## 📈 GitHub Stats
 
-![Andrzej’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues,contribs&show=reviews&custom_title=GitHub%20Stats%20%E2%AD%90%EF%B8%8F&rank_icon=github)
-![Andrzej’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues,contribs&custom_title=GitHub%20Stats%20%E2%AD%90%EF%B8%8F&rank_icon=github)
+![Andrzej’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HickAI&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews&custom_title=GitHub%20Stats%20%E2%AD%90%EF%B8%8F&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAI&layout=compact&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HickAI&layout=compact&theme=radical&hide_border=true)
-
 
 ---
 
